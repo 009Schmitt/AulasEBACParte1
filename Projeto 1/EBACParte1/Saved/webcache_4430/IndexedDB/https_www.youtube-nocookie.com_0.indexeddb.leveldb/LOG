@@ -1,0 +1,6 @@
+2023/11/17-18:21:49.609 704 Creating DB C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/Projeto 1/EBACParte1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/17-18:21:49.618 704 Reusing MANIFEST C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/Projeto 1/EBACParte1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/17-18:26:18.260 28c4 Level-0 table #5: started
+2023/11/17-18:26:18.268 28c4 Level-0 table #5: 1167 bytes OK
+2023/11/17-18:26:18.269 28c4 Delete type=0 #3
+2023/11/17-18:26:18.270 28c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
