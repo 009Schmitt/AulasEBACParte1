@@ -1,2 +1,3 @@
-2023/11/17-18:18:49.189 bb8 Creating DB C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/Projeto 1/EBACParte1/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/11/17-18:18:49.203 bb8 Reusing MANIFEST C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/Projeto 1/EBACParte1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/21-10:44:39.369 5fb8 Reusing MANIFEST C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/AulasEBACParte1/Projeto 1/EBACParte1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/21-10:44:39.378 5fb8 Recovering log #3
+2023/11/21-10:44:39.379 5fb8 Reusing old log C:/Users/Victor Schmitt/Desktop/ProjetosEBAC/AulasEBACParte1/Projeto 1/EBACParte1/Saved/webcache_4430\Local Storage\leveldb/000003.log 
